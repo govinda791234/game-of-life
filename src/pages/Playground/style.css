@@ -1,0 +1,24 @@
+.dasboard_container{
+    padding: 40px 100px;
+}
+.playground_container{
+    border: 2px solid rgb(29, 29, 29);
+    padding: 30px 150px;
+}
+.playground_buttons{
+    border: 2px solid rgb(29, 29, 29);
+    padding: 20px 60px;
+    background-color: transparent;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+.align-center{
+    display: flex;
+    justify-content: center;
+}
+.playground_buttons{
+    margin-right: 10px;
+    text-decoration: none;
+    color: initial;
+}

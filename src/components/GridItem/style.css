@@ -1,0 +1,5 @@
+.grid-item{
+    padding:60px 0px;
+    border:1px solid rgb(74, 62, 62);
+    cursor: pointer;
+}
